@@ -19,7 +19,7 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 
 # webrick is a Ruby library that provides HTTP server and client classes.
 # This is the default server for Jekyll.
-gem "webrick", "~> 1.8.1"
+gem "webrick", "~> 1.8.2"
 
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-sitemap", group: :jekyll_plugins
